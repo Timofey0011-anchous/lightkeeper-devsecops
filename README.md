@@ -43,11 +43,14 @@
 - [Проверка результата](docs/verification.md).
 - [Локальный граф истории](docs/git-graph.png) — схема по фактическим родителям коммитов.
 
-## Публикация и сдача
+## Публичный репозиторий и сдача
 
-Репозиторий подготовлен локально. Для сдачи требуется опубликовать `main`
-и все четыре рабочие ветки в публичном репозитории GitHub.
-После публикации открыть Insights → Network и проверить граф;
-вместо скриншота можно сдать ссылку на GitHub Network, как разрешено заданием.
-Ссылку в README добавляет включённый в архив сценарий `publish.ps1`.
-Сам архив не заменяет обязательную публичную ссылку для сдачи.
+- [Репозиторий GitHub](https://github.com/Timofey0011-anchous/lightkeeper-devsecops).
+- [Граф веток GitHub Network](https://github.com/Timofey0011-anchous/lightkeeper-devsecops/network).
+- [Все ветки](https://github.com/Timofey0011-anchous/lightkeeper-devsecops/branches).
+- [История main](https://github.com/Timofey0011-anchous/lightkeeper-devsecops/commits/main/).
+- [Коммит разрешения конфликта](https://github.com/Timofey0011-anchous/lightkeeper-devsecops/commit/268cdb7ff02107b1f443735139b911326d09afec).
+
+Все пять веток опубликованы. Для сдачи отправляется ссылка на репозиторий.
+Network формируется GitHub; локальная схема истории также доступна
+в `docs/git-graph.png`.

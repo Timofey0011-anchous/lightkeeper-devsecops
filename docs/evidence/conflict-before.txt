@@ -1,4 +1,7 @@
-# Реальный вывод Git при возникновении конфликта
+# Повторная проверка конфликта по опубликованным коммитам
+
+Родитель main: b59fab46254e34fd8dfc5e7c788338dfa4e0c812
+Вливаемый коммит: 7831d3dfa48d6d18172c87e933d058ee72f93184
 
 $ git merge --no-ff docs/description
 Auto-merging README.md
