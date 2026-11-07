@@ -1,0 +1,8 @@
+{
+  "kind": "battery",
+  "name": "Запасной аккумулятор",
+  "model": "Cell-01",
+  "powerType": "18650",
+  "capacityMah": 3000,
+  "status": "needs_service"
+}
