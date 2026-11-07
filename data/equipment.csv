@@ -1,0 +1,4 @@
+id,kind,name,model,powerType,capacityMah,status
+10000000-0000-4000-8000-000000000001,flashlight,Походный фонарь,Trail-01,18650,,ready
+10000000-0000-4000-8000-000000000002,battery,Запасной аккумулятор,Cell-01,18650,3000,needs_service
+10000000-0000-4000-8000-000000000003,flashlight,Рабочий фонарь,Work-02,AA,,retired
